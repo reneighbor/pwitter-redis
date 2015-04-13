@@ -1,0 +1,20 @@
+[
+    {
+        "table": "user",
+        "records": [
+            {
+                "id": 1,                
+                "user_sid": "USf1ffeba94bf041",
+                "username": "reneighbor",
+                "hashed_token": "sha1$wUfwwRpD$460acbff778e3ae7a2c05eed32aae34036f26127"
+            },
+            {
+                "id": 2,
+                "user_sid": "US3d84e915339442",
+                "username": "trenton",
+                "hashed_token": "sha1$qFEDUqZC$f33840560fdee14d388b5b5e3267dae32293218f"
+            }
+            
+        ]
+    }
+]

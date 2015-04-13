@@ -1,0 +1,19 @@
+[
+    {
+        "table": "tweet",
+        "records": [
+            {
+                "id": 1,
+                "user_id": 1,
+                "username": "reneighbor",
+                "body": "hello world"
+            },
+            {
+                "id": 2,
+                "user_id": 2,
+                "username": "trenton",
+                "body": "burning man"
+            }
+        ]
+    }
+]
